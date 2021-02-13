@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">design age</string>
+    <string name="submit">Submit</string>
+    <string name="age_0">Age: 0</string>
+    <string name="enter_birth_year">enter birth year</string>
+    <string name="age_calculator">AGE CALCULATOR</string>
+    <string name="todo">TODO</string>
+</resources>
